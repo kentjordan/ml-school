@@ -1,0 +1,71 @@
+FighterId,Winner,WeightClass,FighterName,Gender,Age,Reach,StrikingSkill,GrapplingSkill,SubmissionSkill,Experience,LastFightResult,FightingStyle
+1,YES,Welterweight,Kamaru Usman,male,35,76,85,70,60,20,Win,All-Rounder
+2,NO,Lightweight,Justin Gaethje,male,34,70,95,55,60,25,Loss,Striker
+3,YES,Featherweight,Alexander Volkanovski,male,34,71,80,75,65,25,Win,Striker
+4,NO,Middleweight,Robert Whittaker,male,32,73,85,70,60,25,Loss,All-Rounder
+5,YES,Light Heavyweight,Jamahal Hill,male,31,76,90,70,60,10,Win,All-Rounder
+6,NO,Welterweight,Leon Edwards,male,30,74,85,75,65,20,Loss,All-Rounder
+7,YES,Bantamweight,Marlon Vera,male,30,70,80,75,65,15,Win,All-Rounder
+8,NO,Lightweight,Beneil Dariush,male,33,70,80,75,65,20,Loss,All-Rounder
+9,YES,Welterweight,Neil Magny,male,35,80,75,70,65,30,Win,All-Rounder
+10,NO,Featherweight,Max Holloway,male,31,69,75,80,55,25,Loss,Striker
+11,YES,Middleweight,Israel Adesanya,male,32,80,90,70,75,20,Win,Striker
+12,NO,Light Heavyweight,Johnny Walker,male,30,79,90,60,50,10,Loss,Striker
+13,YES,Bantamweight,Sean O'Malley,male,28,72,90,65,55,10,Win,Striker
+14,NO,Welterweight,Khamzat Chimaev,male,28,75,90,80,70,10,Loss,All-Rounder
+15,YES,Lightweight,Michael Chandler,male,36,70,90,60,70,25,Win,All-Rounder
+16,NO,Featherweight,Yair Rodriguez,male,30,70,85,70,60,15,Loss,Striker
+17,YES,Welterweight,Shavkat Rakhmonov,male,28,74,85,70,65,10,Win,All-Rounder
+18,NO,Light Heavyweight,Jiri Prochazka,male,30,77,82,78,72,30,Loss,All-Rounder
+19,YES,Bantamweight,Rob Font,male,35,72,80,75,65,20,Win,Striker
+20,NO,Welterweight,Jorge Masvidal,male,37,74,65,80,55,50,Loss,Striker
+21,YES,Middleweight,Alex Pereira,male,35,79,90,70,60,10,Win,Striker
+22,NO,Lightweight,Dustin Poirier,male,32,72,85,75,80,30,Loss,Striker
+23,YES,Featherweight,Alexander Volkanovski,male,34,71,80,75,65,25,Win,Striker
+24,NO,Welterweight,Colby Covington,male,35,72,70,85,50,16,Loss,Wrestler
+25,YES,Light Heavyweight,Glover Teixeira,male,42,75,88,82,70,40,Win,Grappler
+26,NO,Bantamweight,Cory Sandhagen,male,30,70,90,70,75,15,Loss,Striker
+27,YES,Welterweight,Leon Edwards,male,30,74,85,75,65,20,Win,All-Rounder
+28,NO,Lightweight,Tony Ferguson,male,38,76,80,60,55,30,Loss,All-Rounder
+29,YES,Middleweight,Marvin Vettori,male,29,74,80,75,65,15,Win,All-Rounder
+30,NO,Welterweight,Stephen Thompson,male,40,75,90,60,50,20,Loss,Striker
+31,YES,Light Heavyweight,Alex Pereira,male,35,79,85,70,60,10,Win,Striker
+32,NO,Heavyweight,Francis Ngannou,male,36,83,95,70,50,15,Loss,Striker
+33,YES,Heavyweight,Stipe Miocic,male,40,80,80,75,60,25,Win,All-Rounder
+34,NO,Light Heavyweight,Jamahal Hill,male,31,76,90,70,60,10,Loss,All-Rounder
+35,YES,Welterweight,Khamzat Chimaev,male,28,75,90,80,70,10,Win,All-Rounder
+36,NO,Heavyweight,Ciryl Gane,male,32,83,85,70,60,10,Loss,All-Rounder
+37,YES,Light Heavyweight,Magomed Ankalaev,male,30,75,85,70,60,10,Win,All-Rounder
+38,NO,Welterweight,Vicente Luque,male,30,75,88,70,60,15,Loss,Striker
+39,YES,Heavyweight,Derrick Lewis,male,37,79,80,60,50,20,Win,Striker
+40,NO,Light Heavyweight,Johnny Walker,male,30,79,90,60,50,10,Loss,Striker
+41,YES,Welterweight,Neil Magny,male,35,80,75,70,65,30,Win, All-Rounder
+42,NO,Heavyweight,Curtis Blaydes,male,31,80,85,70,60,10,Loss,Wrestler
+43,YES,Light Heavyweight,Ryan Spann,male,31,79,80,70,60,10,Win,All-Rounder
+44,NO,Welterweight,Leon Edwards,male,30,74,85,75,65,20,Loss,All-Rounder
+45,YES,Heavyweight,Tai Tuivasa,male,29,75,80,70,60,10,Win,Striker
+46,NO,Light Heavyweight,Glover Teixeira,male,42,75,88,82,70,40,Loss,Grappler
+47,YES,Welterweight,Colby Covington,male,35,72,70,85,50,16,Win,Wrestler
+48,NO,Heavyweight,Alexander Volkov,male,34,84,85,70,60,10,Loss,Striker
+49,YES,Light Heavyweight,Jiri Prochazka,male,30,77,82,78,72,30,Win,All-Rounder
+50,NO,Welterweight,Jorge Masvidal,male,37,74,65,80,55,50,Loss,Striker
+51,YES,Heavyweight,Jon Jones,male,36,84,95,95,95,30,Win,All-Rounder
+52,YES,Strawweight,Rose Namajunas,female,30,65,90,70,80,10,Win,Striker
+53,NO,Flyweight,Valentina Shevchenko,female,35,67,95,80,85,15,Loss,All-Rounder
+54,YES,Bantamweight,Amanda Nunes,female,35,68,90,75,90,20,Win,All-Rounder
+55,NO,Featherweight,Cris Cyborg,female,37,69,95,80,85,25,Loss,Striker ```plaintext
+56,YES,Lightweight,Tatiana Suarez,female,32,66,85,80,90,10,Win,Grappler
+57,NO,Strawweight,Zhang Weili,female,34,65,90,85,80,15,Loss,All-Rounder
+58,YES,Flyweight,Jessica Andrade,female,31,63,90,80,85,20,Win,Striker
+59,NO,Bantamweight,Raquel Pennington,female,34,66,80,75,70,15,Loss,All-Rounder
+60,YES,Featherweight,Felicia Spencer,female,32,68,80,70,75,10,Win,All-Rounder
+61,NO,Strawweight,Marina Rodriguez,female,36,65,85,75,70,20,Loss,Striker
+62,YES,Flyweight,Jennifer Maia,female,35,64,80,75,80,15,Win,All-Rounder
+63,NO,Bantamweight,Miesha Tate,female,36,66,85,80,75,20,Loss,All-Rounder
+64,YES,Featherweight,Aspen Ladd,female,28,67,80,75,70,10,Win,All-Rounder
+65,NO,Strawweight,Amanda Lemos,female,36,65,85,80,75,15,Loss,Striker
+66,YES,Flyweight,Andrea Lee,female,34,64,80,75,70,10,Win,All-Rounder
+67,NO,Bantamweight,Kaitlyn Chookagian,female,34,66,85,80,75,20,Loss,All-Rounder
+68,YES,Featherweight,Norma Dumont,female,32,68,80,75,70,10,Win,All-Rounder
+69,NO,Strawweight,Lina Lansberg,female,40,66,80,75,70,15,Loss,Striker
+70,YES,Flyweight,Mackenzie Dern,female,30,64,85,80,90,10,Win,Grappler
